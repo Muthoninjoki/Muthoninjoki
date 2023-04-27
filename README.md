@@ -1,12 +1,9 @@
-<h1 align="center">Hi there 👋</h1>
-
+<h1 align="center">Hi there 👋 I am Muthoni Njoki</h1>
 <h3 align="center">I'm a Full-Stack Software Engineering student at Alx_Africa/Holberton School</h3>
 
-- 🔭 I’m currently working on **AirBnb clone, Nasya app**
+- I’m currently focusing on **Frontend**
 
-- 🌱 I’m currently learning **HTML, CSS, C, PYTHON,SQL and JAVASCRIPT**
-
-- 📫 How to reach me **fmuthoninjoki@gmail.com**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

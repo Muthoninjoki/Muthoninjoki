@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 I am Muthoni Njoki</h1>
-<h3 align="center">I'm a Full-Stack Software Engineering student at Alx_Africa/Holberton School</h3>
+<h1 align="center">Hi there 👋 Welcome to my github page</h1>
+<h3 align="center">I'm a Full-Stack Software Engineer and Ui/Ux designer</h3>
 
 - I’m currently focusing on **Frontend & Ui/Ux**
 

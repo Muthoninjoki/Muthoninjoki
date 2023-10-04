@@ -1,9 +1,9 @@
-<h1 align="center">Hi there í±‹ I am Muthoni Njoki/>
-<h3I'm a Full-Stack Sof<h1 align="center">tware Engineering student at Alx_Africa/Holberton School</h3>
+<h1 align="center">Hi there ðŸ‘‹ I am Muthoni Njoki</h1>
+<h3 align="center">I'm a Full-Stack Software Engineering student at Alx_Africa/Holberton School</h3>
 
 - Iâ€™m currently focusing on **Frontend & Ui/Ux**
 
-- í¼± Iâ€™m currently learning **frameworks**
+- ðŸŒ± Iâ€™m currently learning **frameworks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muthoninjoki&show_icons=true&locale=en&layout=compact" alt="muthoninjoki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muthoninjoki&show_icons=true&locale=en" alt="muthoninjoki" /></p>
-

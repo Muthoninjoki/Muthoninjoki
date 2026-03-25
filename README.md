@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I build products end-to-end blending design, development and product thinking to create meaningful user experiences.</h1>
-<h3 align="center">💡 Full-Stack Developer | Product Designer | Product Manager</h3>
+<h3 align="center">Software Engineer | Product Designer | Technical Product Manager | Alx Alumni</h3>
 
 - 🔭 I’m currently working on **- Building full-stack applications using React & Django, designing scalable systems with a focus on user experience and developing real-world products that solve practical problems.**
 
